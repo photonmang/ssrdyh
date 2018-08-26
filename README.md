@@ -1,6 +1,6 @@
 # 欢迎访问本项目!
 
-示例站点：https://ssrdyh.herokuapp.com   
+示例站点：https://ssrdy.herokuapp.com   
 
 本项目不具备代理及账号管理能力。只负责汇集目标站点信息，便于大家查看、订阅。账号来之不易，请支持源站点。
 
